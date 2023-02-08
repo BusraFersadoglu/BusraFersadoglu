@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Büşra</h1>
-<h3 align="center">An Enthusiastic Front-end Software Developer</h3>
+<h3 align="center">An Enthusiastic Frontend Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
