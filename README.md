@@ -16,7 +16,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/busra-nur-fersadoglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/busra-nur-fersadoglu/" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/BusraFersadoglu" target="blank"><img align="center" src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="busrafersadoglu" height="30" width="25" /></a>
 </p>
+<br>
+<br>
 
+✨ Porfolio: **https://busrafersadoglu.vercel.app/**
 
 
 📫 How to reach me **busra.fersadoglu@gmail.com**
